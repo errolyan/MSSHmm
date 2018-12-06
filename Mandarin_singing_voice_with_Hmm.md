@@ -1,5 +1,5 @@
 ---
-title: HTS sinsy音源训练方法
+title: Mandarin_singing_voice_with_Hmm
 tags: 深度学习,机器学习,数据挖掘,
 grammar_mindmap: true
 renderNumberedHeading: true
@@ -11,7 +11,7 @@ Describe: "音源训练方法 "
 Date: 2018-11-27
 ```
 [toc!?direction=lr]
-# HTS sinsy音源训练方法
+# Mandarin_singing_voice_with_Hmm
 - 问题以及解决办法：http://hts.sp.nitech.ac.jp/?Mailing%20List
 - [邮件列表http://hts.sp.nitech.ac.jp/hts-users/spool/2017/msg00048.html]Wavesurfer (http://www.speech.kth.se/wavesurfer/) can load HTK style .lab files so if you have those you can use that.
 ## 1.HTK安装方法
